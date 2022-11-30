@@ -72,4 +72,4 @@ console.log("status", firstCar.status())
 
 
 // task 4
-// ამის გაკეთება გამიჭირდა, promise არ ვიცი კარგად
+// ამის გაკეთება გამიჭირდა, promise არ ვიცი კარგად.
